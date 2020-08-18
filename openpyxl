@@ -1,4 +1,4 @@
 **print worksheet values**    
 > for row in ws.values:
-        > for value in row:
-            > print(value)
+>     for value in row:
+>        print(value)
